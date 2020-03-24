@@ -1,6 +1,6 @@
 # GreenHouse-Monitoring-Using-IoT
 
-=>> Objective :-
+=> Objective :-
 
 To automate the monitoring processes of a plant inside a greenhouse with respect to its surrounding conditions.
 
